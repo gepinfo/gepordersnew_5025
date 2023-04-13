@@ -1,0 +1,94 @@
+<svg version="1.1" baseProfile="full" width="702.0" height="351.0" viewbox="0 0 702 351" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<desc >#.interface: fill=lightblue
+#.enumeration: fill=lightgreen
+#.type: fill=lightgray
+[&lt;interface&gt;gporders|+created_date_at: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date_at: { type: Date; };+type: String;+name: String;+description: String;+price: Number;+price_currency_type: String;+cost: Number;+cost_currency_type: String;+gephistoryid: String|]
+[&lt;interface&gt;order|+created_date_at: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date_at: { type: Date; };+type: String;+orderstatus: String;+name: String;+description: String;+attachments: String;+gephistoryid: String|]</desc>
+<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+<g transform="translate(0.5, 0.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+<g stroke="transparent" fill="transparent">
+<rect x="0.0" y="0.0" height="351.0" width="702.0" stroke="none"></rect>
+</g>
+<g transform="translate(8, 8)" fill="#33322E">
+<g transform="translate(20, 20)">
+<g data-name="gporders">
+<g fill="lightblue" stroke="#33322E" data-name="gporders">
+<rect x="0.0" y="0.0" height="295.0" width="303.0" data-name="gporders"></rect>
+<path d="M0.0 31.0 L303.0 31.0" fill="none" data-name="gporders"></path>
+<path d="M0.0 287.0 L303.0 287.0" fill="none" data-name="gporders"></path>
+</g>
+<g transform="translate(0, 0)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="gporders">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="gporders">
+<a id="../application/services/diagrams/serviceModels/gporders.ts.gporders" xlink:href="../application/services/diagrams/serviceModels/gporders.ts"><text x="143.5" y="13.5" stroke="none" text-anchor="middle" data-name="gporders">gporders</text></a>
+
+</g>
+</g>
+<g transform="translate(0, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="gporders">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="gporders">
+<text x="0.0" y="13.5" stroke="none" data-name="gporders">+created_date_at: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="gporders">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="gporders">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="gporders">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="gporders">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="gporders">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="gporders">+last_modified_date_at: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="gporders">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="gporders">+type: String</text>
+<text x="0.0" y="148.5" stroke="none" data-name="gporders">+name: String</text>
+<text x="0.0" y="163.5" stroke="none" data-name="gporders">+description: String</text>
+<text x="0.0" y="178.5" stroke="none" data-name="gporders">+price: Number</text>
+<text x="0.0" y="193.5" stroke="none" data-name="gporders">+price_currency_type: String</text>
+<text x="0.0" y="208.5" stroke="none" data-name="gporders">+cost: Number</text>
+<text x="0.0" y="223.5" stroke="none" data-name="gporders">+cost_currency_type: String</text>
+<text x="0.0" y="238.5" stroke="none" data-name="gporders">+gephistoryid: String</text>
+
+</g>
+</g>
+<g transform="translate(0, 287)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="gporders">
+<g transform="translate(8, 8)" fill="#33322E" data-name="gporders">
+
+</g>
+</g>
+</g>
+<g data-name="order">
+<g fill="lightblue" stroke="#33322E" data-name="order">
+<rect x="343.0" y="15.0" height="265.0" width="303.0" data-name="order"></rect>
+<path d="M343.0 46.0 L646.0 46.0" fill="none" data-name="order"></path>
+<path d="M343.0 272.0 L646.0 272.0" fill="none" data-name="order"></path>
+</g>
+<g transform="translate(343, 15)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="order">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="order">
+<a id="../application/services/diagrams/serviceModels/order.ts.order" xlink:href="../application/services/diagrams/serviceModels/order.ts"><text x="143.5" y="13.5" stroke="none" text-anchor="middle" data-name="order">order</text></a>
+
+</g>
+</g>
+<g transform="translate(343, 46)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="order">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="order">
+<text x="0.0" y="13.5" stroke="none" data-name="order">+created_date_at: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="order">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="order">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="order">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="order">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="order">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="order">+last_modified_date_at: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="order">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="order">+type: String</text>
+<text x="0.0" y="148.5" stroke="none" data-name="order">+orderstatus: String</text>
+<text x="0.0" y="163.5" stroke="none" data-name="order">+name: String</text>
+<text x="0.0" y="178.5" stroke="none" data-name="order">+description: String</text>
+<text x="0.0" y="193.5" stroke="none" data-name="order">+attachments: String</text>
+<text x="0.0" y="208.5" stroke="none" data-name="order">+gephistoryid: String</text>
+
+</g>
+</g>
+<g transform="translate(343, 272)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="order">
+<g transform="translate(8, 8)" fill="#33322E" data-name="order">
+
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
